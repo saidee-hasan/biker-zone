@@ -26,5 +26,5 @@ Biker Zone is an online platform dedicated to motorcycle enthusiasts. It provide
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/biker-zone.git
+   git clone https://github.com/saidee-hasan/biker-zone.git
    cd biker-zone
